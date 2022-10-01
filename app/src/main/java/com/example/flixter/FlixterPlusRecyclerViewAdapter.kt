@@ -12,7 +12,7 @@ import com.example.flixter.R.id
 class FlixterPlusRecyclerViewAdapter(
     private val movies: List<FlixterPlus>,
     private val mListener: OnListFragmentInteractionListener?
-) {
+)
     : RecyclerView.Adapter<FlixterPlusRecyclerViewAdapter.FilmsViewHolder>()
     {
         override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): FilmsViewHolder {
@@ -66,4 +66,3 @@ class FlixterPlusRecyclerViewAdapter(
     }
 
 
-}

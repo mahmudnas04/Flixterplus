@@ -20,7 +20,7 @@ import org.json.JSONObject
 
 private const val API_KEY = "a07e22bc18f5cb106bfe4cc1f83ad8ed"
 
-class FlixterPlusFragment {
+class FlixterPlusFragment : Fragment(), OnListFragmentInteractionListener {
 
     /*
         * Constructing the view
