@@ -4,7 +4,7 @@ Submitted by: **Arif Mahmud Nasif**
 
 **Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **X** hours spent in total
+Time spent: **30+** hours spent in total
 
 ## Required Features
 
@@ -41,7 +41,18 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-![CB914249-33C3-46B7-92B5-B4ECAB10E327](https://user-images.githubusercontent.com/93147757/193496977-1751231f-e6c1-4720-9b75-4cac910520ac.jpg)
+- Resource linking kept failing because android studio did not read/register tools schemas. 
+- I have gotten help from two TA's both of whom agree there isn't a problem with the code itself, but that android studio is what keeps failing. 
+- I was supposed to be referred to another TA but in the end never got the help to finish fixing the error with android studio. 
+- I reached out to codepathsupport and was told I'll be referred to the programs team but in the end was not contacted by them
+- I hope I will not be punished for this as the errors were beyond my control and I didn't get the help I seeked from codepath resources
+
+<img width="959" alt="error ss1" src="https://user-images.githubusercontent.com/93147757/193497127-d92ca0e6-ecef-47ca-b06a-fad5afe57198.png">
+
+
+![Screenshot 2022-10-02 234124](https://user-images.githubusercontent.com/93147757/193497904-e98cdafd-7b32-4147-8a39-454df6bf4b71.png)
+
+
 
 
 
